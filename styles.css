@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to right, #ff9966, #ff5e62);
+}
+
+.container {
+    text-align: center;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    color: #ff5e62;
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 20px;
+    background: #ff5e62;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s ease;
+}
+
+button:hover {
+    background: #ff9966;
+}
+
+.question, .answer {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+}
+
+.signature {
+    font-style: italic;
+    margin-top: 20px;
+    color: #666;
+}

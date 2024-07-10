@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>From Me? to Viona</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Hello Beautiful!</h1>
+        <p>I've got some questions for you...</p>
+        <div id="questionSection" style="display: none;">
+            <div id="question" class="question"></div>
+            <button id="answerBtn" onclick="showAnswer()">See answer</button>
+        </div>
+        <button id="questionBtn" onclick="showQuestion()">Click me to see the question</button>
+        <button id="nextBtn" onclick="showNextQuestion()" style="display: none;">See next question</button>
+        <div id="response" class="answer" style="display: none;"></div>
+        <p class="signature">From Me? to Viona</p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
