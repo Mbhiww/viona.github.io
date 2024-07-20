@@ -4,20 +4,40 @@ const questions = [
         romanticAnswer: "Karena senyummu adalah sinar matahari di hari hujan dalam hidupku."
     },
     {
-        question: "Apa yang membuat kamu senang setiap kali kita bertemu?",
-        romanticAnswer: "Setiap kali kita bertemu, hatiku berdegup lebih kencang karena kehadiranmu."
+        question: "Apa yang membuat kamu spesial?",
+        romanticAnswer: "Kamu adalah seseorang yang selalu membawa kebahagiaan ke dalam hidupku."
     },
     {
-        question: "Mengapa aku selalu memikirkan kamu?",
-        romanticAnswer: "Kamu adalah satu-satunya yang selalu ada di setiap pikiranku, bahkan di saat sunyi."
+        question: "Mengapa aku selalu memikirkanmu?",
+        romanticAnswer: "Karena kamu selalu ada di dalam hati dan pikiranku setiap saat."
     },
     {
         question: "Apa yang membuat kamu begitu istimewa?",
-        romanticAnswer: "Kamu begitu istimewa bagiku karena kamu adalah malaikat yang turun untuk membuat hidupku lebih indah."
+        romanticAnswer: "Kamu begitu istimewa karena kebaikan hatimu yang luar biasa."
     },
     {
-        question: "Kenapa aku merasa nyaman bercerita padamu?",
-        romanticAnswer: "Karena hanya denganmu, aku merasa bisa menjadi diriku yang sebenarnya tanpa ada rasa takut."
+        question: "Kenapa aku merasa nyaman berbicara denganmu?",
+        romanticAnswer: "Karena hanya denganmu, aku merasa bisa menjadi diriku sendiri tanpa rasa takut."
+    },
+    {
+        question: "Apa yang paling kamu sukai tentang dirimu?",
+        romanticAnswer: "Aku suka segalanya tentangmu, tapi senyummu adalah yang terbaik."
+    },
+    {
+        question: "Apa yang membuatmu begitu berharga?",
+        romanticAnswer: "Kamu adalah harta terindah dalam hidupku, tidak tergantikan."
+    },
+    {
+        question: "Kenapa aku selalu bahagia saat bersamamu?",
+        romanticAnswer: "Karena setiap momen bersamamu adalah kebahagiaan yang tak ternilai."
+    },
+    {
+        question: "Apa yang membuat hariku lebih baik?",
+        romanticAnswer: "Hanya dengan memikirkanmu, hariku sudah menjadi lebih baik."
+    },
+    {
+        question: "Kenapa aku selalu menantikan pesanmu?",
+        romanticAnswer: "Karena setiap pesan darimu adalah kebahagiaan yang selalu aku nantikan."
     }
 ];
 
